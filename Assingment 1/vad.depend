@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1781503229 source:c:\users\user\documents\vad\main.cpp
+	<iostream>
+
+1781510644 source:c:\users\user\documents\vad\question 1.cpp
+	<iostream>
+
+1781543696 source:c:\users\user\documents\vad\question 2.cpp
+	<iostream>
+	<cmath>
+
+1781544043 source:c:\users\user\documents\vad\question 3.cpp
+	<iostream>
+	<cmath>
+
+1781510644 source:c:\users\user\documents\assingment 1\question 1.cpp
+	<iostream>
+
+1781543696 source:c:\users\user\documents\assingment 1\question 2.cpp
+	<iostream>
+	<cmath>
+
+1781544043 source:c:\users\user\documents\assingment 1\question 3.cpp
+	<iostream>
+	<cmath>
+
